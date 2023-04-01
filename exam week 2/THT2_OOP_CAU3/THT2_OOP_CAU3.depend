@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1680335619 source:c:\users\minhpc\documents\code\c++\process\tht2_oop_cau3\main.cpp
+	<bits/stdc++.h>
+	"candidate.h"
+
+1680335944 c:\users\minhpc\documents\code\c++\process\tht2_oop_cau3\include\candidate.h
+	<string>
+
+1680335571 source:c:\users\minhpc\documents\code\c++\process\tht2_oop_cau3\src\candidate.cpp
+	<bits/stdc++.h>
+	"candidate.h"
+

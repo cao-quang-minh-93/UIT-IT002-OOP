@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1680314247 source:c:\users\minhpc\documents\code\c++\process\tht2oop\main.cpp
+	<bits/stdc++.h>
+	"sophuc.h"
+
+1680314598 c:\users\minhpc\documents\code\c++\process\tht2oop\include\sophuc.h
+
+1680314431 source:c:\users\minhpc\documents\code\c++\process\tht2oop\src\sophuc.cpp
+	<bits/stdc++.h>
+	"sophuc.h"
+
