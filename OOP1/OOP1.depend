@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1679126599 source:d:\courses\c++\oop1\main.cpp
+	<iostream>
+	"Nhanvien.h"
+	"Tochuc.h"
+
+1677914784 d:\courses\c++\oop1\a.h
+
+1677914792 d:\courses\c++\oop1\b.h
+
+1677915020 source:d:\courses\c++\oop1\a.cpp
+	<iostream>
+	"A.h"
+
+1677916416 source:d:\courses\c++\oop1\b.cpp
+	<iostream>
+	"B.h"
+
+1679126986 d:\courses\c++\oop1\nhanvien.h
+	<string>
+
+1679126718 d:\courses\c++\oop1\tochuc.h
+	<string>
+	"Nhanvien.h"
+
+1679126904 source:d:\courses\c++\oop1\nhanvien.cpp
+	<iostream>
+	"Nhanvien.h"
+
+1679076200 source:c:\users\minhpc\documents\code\c++\process\oop1\main.cpp
+	<iostream>
+	"Nhanvien.h"
+	"Tochuc.h"
+
+1679076588 c:\users\minhpc\documents\code\c++\process\oop1\nhanvien.h
+	<string>
+
+1679076320 c:\users\minhpc\documents\code\c++\process\oop1\tochuc.h
+	<string>
+	"Nhanvien.h"
+
+1679077216 source:c:\users\minhpc\documents\code\c++\process\oop1\tochuc.cpp
+	<iostream>
+	<fstream>
+	"Tochuc.h"
+
