@@ -1,0 +1,278 @@
+# depslib dependency file v1.0
+1681710875 source:d:\projects\at uit\computer science\3. object oriented programing\at class\5th_week\hinhhoc2d\src\hinhchunhat.cpp
+	"HinhChuNhat.h"
+	"math.h"
+
+1681710380 d:\projects\at uit\computer science\3. object oriented programing\at class\5th_week\hinhhoc2d\include\hinhchunhat.h
+
+1681710894 source:d:\projects\at uit\computer science\3. object oriented programing\at class\5th_week\hinhhoc2d\src\hinhtamgiac.cpp
+	"HinhTamGiac.h"
+	"math.h"
+
+1681710398 d:\projects\at uit\computer science\3. object oriented programing\at class\5th_week\hinhhoc2d\include\hinhtamgiac.h
+
+1681710857 source:d:\projects\at uit\computer science\3. object oriented programing\at class\5th_week\hinhhoc2d\src\hinhtron.cpp
+	"HinhTron.h"
+	"math.h"
+
+1681710433 d:\projects\at uit\computer science\3. object oriented programing\at class\5th_week\hinhhoc2d\include\hinhtron.h
+
+1681710741 source:d:\projects\at uit\computer science\3. object oriented programing\at class\5th_week\hinhhoc2d\main.cpp
+	"HinhHoc2D.h"
+	"iostream"
+
+1681710809 d:\projects\at uit\computer science\3. object oriented programing\at class\5th_week\hinhhoc2d\include\hinhhoc2d.h
+	"HinhHoc2D.h"
+	"math.h"
+	"iostream"
+	"HinhChuNhat.h"
+	"HinhTamGiac.h"
+	"HinhTron.h"
+
+1681710781 source:d:\projects\at uit\computer science\3. object oriented programing\at class\5th_week\hinhhoc2d\src\hinhhoc2d.cpp
+	"HinhHoc2D.h"
+	"math.h"
+	"iostream"
+	"HinhChuNhat.h"
+	"HinhTamGiac.h"
+	"HinhTron.h"
+
+1681717083 source:c:\users\minhpc\documents\code\c++\process\hinhhoc2d\main.cpp
+	"HinhHoc2D.h"
+	"iostream"
+
+1681905599 c:\users\minhpc\documents\code\c++\process\hinhhoc2d\include\hinhhoc2d.h
+	"HinhHoc2D.h"
+	"bits/stdc++.h"
+	"HinhChuNhat.h"
+	"HinhTamGiac.h"
+	"HinhTron.h"
+
+1681905516 c:\users\minhpc\documents\code\c++\process\hinhhoc2d\include\hinhchunhat.h
+	"Point.h"
+
+1681905516 c:\users\minhpc\documents\code\c++\process\hinhhoc2d\include\hinhtamgiac.h
+	"point.h"
+
+1681905516 c:\users\minhpc\documents\code\c++\process\hinhhoc2d\include\point.h
+
+1681905516 c:\users\minhpc\documents\code\c++\process\hinhhoc2d\include\hinhtron.h
+	"point.h"
+
+1681717083 source:c:\users\minhpc\documents\code\c++\process\hinhhoc2d\src\hinhhoc2d.cpp
+	"HinhHoc2D.h"
+	"math.h"
+	"iostream"
+	"HinhChuNhat.h"
+	"HinhTamGiac.h"
+	"HinhTron.h"
+
+1681902963 source:c:\users\minhpc\documents\code\c++\process\hinhhoc2d\src\hinhtron.cpp
+	"HinhTron.h"
+	"math.h"
+
+1681905516 source:c:\users\minhpc\documents\code\c++\process\hinhhoc2d\src\hinhchunhat.cpp
+	"HinhChuNhat.h"
+	"bits/stdc++.h"
+	"Point.h"
+
+1681981589 source:c:\users\dell\onedrive\máy tính\hinhhoc2d\main.cpp
+	"bits/stdc++.h"
+	"HinhTamGiac.h"
+	"HinhChuNhat.h"
+	"HinhTron.h"
+	"HinhHoc2D.h"
+
+1681993429 c:\users\dell\onedrive\máy tính\hinhhoc2d\include\hinhtamgiac.h
+	"point.h"
+
+1681993286 c:\users\dell\onedrive\máy tính\hinhhoc2d\include\point.h
+
+1681990645 c:\users\dell\onedrive\máy tính\hinhhoc2d\include\hinhchunhat.h
+	"Point.h"
+
+1681993477 c:\users\dell\onedrive\máy tính\hinhhoc2d\include\hinhtron.h
+	"point.h"
+
+1681990682 source:c:\users\dell\onedrive\máy tính\hinhhoc2d\src\hinhchunhat.cpp
+	"HinhChuNhat.h"
+	"bits/stdc++.h"
+	"Point.h"
+
+1681992742 source:c:\users\dell\onedrive\máy tính\hinhhoc2d\src\hinhhoc2d.cpp
+	"bits/stdc++.h"
+	"HinhHoc2D.h"
+	"HinhChuNhat.h"
+	"HinhTamGiac.h"
+	"HinhTron.h"
+
+1681992670 c:\users\dell\onedrive\máy tính\hinhhoc2d\include\hinhhoc2d.h
+	"HinhHoc2D.h"
+	"bits/stdc++.h"
+	"HinhChuNhat.h"
+	"HinhTamGiac.h"
+	"HinhTron.h"
+
+1681993442 source:c:\users\dell\onedrive\máy tính\hinhhoc2d\src\hinhtamgiac.cpp
+	"bits/stdc++.h"
+	"HinhTamGiac.h"
+
+1681989319 source:c:\users\dell\onedrive\máy tính\hinhhoc2d\src\hinhtron.cpp
+	"HinhTron.h"
+	"math.h"
+	<iostream>
+
+1681990675 source:c:\users\dell\onedrive\máy tính\hinhhoc2d\src\point.cpp
+	<bits/stdc++.h>
+	"Point.h"
+
+1682051693 source:c:\users\dell\downloads\hinhhoc2d\main.cpp
+	"bits/stdc++.h"
+	"HinhTamGiac.h"
+	"HinhChuNhat.h"
+	"HinhTron.h"
+	"HinhHoc2D.h"
+
+1682052529 c:\users\dell\downloads\hinhhoc2d\include\hinhtamgiac.h
+	"point.h"
+
+1682052556 c:\users\dell\downloads\hinhhoc2d\include\point.h
+
+1682052472 c:\users\dell\downloads\hinhhoc2d\include\hinhchunhat.h
+	"Point.h"
+
+1682052511 c:\users\dell\downloads\hinhhoc2d\include\hinhtron.h
+	"point.h"
+
+1682051719 c:\users\dell\downloads\hinhhoc2d\include\hinhhoc2d.h
+	"HinhHoc2D.h"
+	"bits/stdc++.h"
+	"HinhChuNhat.h"
+	"HinhTamGiac.h"
+	"HinhTron.h"
+
+1682052480 source:c:\users\dell\downloads\hinhhoc2d\src\hinhchunhat.cpp
+	"HinhChuNhat.h"
+	"bits/stdc++.h"
+	"Point.h"
+
+1682051660 source:c:\users\dell\downloads\hinhhoc2d\src\hinhhoc2d.cpp
+	"bits/stdc++.h"
+	"HinhHoc2D.h"
+	"HinhChuNhat.h"
+	"HinhTamGiac.h"
+	"HinhTron.h"
+
+1682052523 source:c:\users\dell\downloads\hinhhoc2d\src\hinhtron.cpp
+	"HinhTron.h"
+	"math.h"
+	<iostream>
+
+1682052555 source:c:\users\dell\downloads\hinhhoc2d\src\point.cpp
+	<bits/stdc++.h>
+	"Point.h"
+
+1682052537 source:c:\users\dell\downloads\hinhhoc2d\src\hinhtamgiac.cpp
+	"bits/stdc++.h"
+	"HinhTamGiac.h"
+
+1682051693 source:d:\projects\at uit\computer science\3. object oriented programing\at class\5th_week\project\hinhhoc2d\main.cpp
+	"bits/stdc++.h"
+	"HinhTamGiac.h"
+	"HinhChuNhat.h"
+	"HinhTron.h"
+	"HinhHoc2D.h"
+
+1682052529 d:\projects\at uit\computer science\3. object oriented programing\at class\5th_week\project\hinhhoc2d\include\hinhtamgiac.h
+	"point.h"
+
+1682052556 d:\projects\at uit\computer science\3. object oriented programing\at class\5th_week\project\hinhhoc2d\include\point.h
+
+1682052472 d:\projects\at uit\computer science\3. object oriented programing\at class\5th_week\project\hinhhoc2d\include\hinhchunhat.h
+	"Point.h"
+
+1682052511 d:\projects\at uit\computer science\3. object oriented programing\at class\5th_week\project\hinhhoc2d\include\hinhtron.h
+	"point.h"
+
+1682051719 d:\projects\at uit\computer science\3. object oriented programing\at class\5th_week\project\hinhhoc2d\include\hinhhoc2d.h
+	"HinhHoc2D.h"
+	"bits/stdc++.h"
+	"HinhChuNhat.h"
+	"HinhTamGiac.h"
+	"HinhTron.h"
+
+1682052480 source:d:\projects\at uit\computer science\3. object oriented programing\at class\5th_week\project\hinhhoc2d\src\hinhchunhat.cpp
+	"HinhChuNhat.h"
+	"bits/stdc++.h"
+	"Point.h"
+
+1682051660 source:d:\projects\at uit\computer science\3. object oriented programing\at class\5th_week\project\hinhhoc2d\src\hinhhoc2d.cpp
+	"bits/stdc++.h"
+	"HinhHoc2D.h"
+	"HinhChuNhat.h"
+	"HinhTamGiac.h"
+	"HinhTron.h"
+
+1682052537 source:d:\projects\at uit\computer science\3. object oriented programing\at class\5th_week\project\hinhhoc2d\src\hinhtamgiac.cpp
+	"bits/stdc++.h"
+	"HinhTamGiac.h"
+
+1682052523 source:d:\projects\at uit\computer science\3. object oriented programing\at class\5th_week\project\hinhhoc2d\src\hinhtron.cpp
+	"HinhTron.h"
+	"math.h"
+	<iostream>
+
+1682052555 source:d:\projects\at uit\computer science\3. object oriented programing\at class\5th_week\project\hinhhoc2d\src\point.cpp
+	<bits/stdc++.h>
+	"Point.h"
+
+1682051693 source:c:\users\minhpc\documents\zalo received files\baitap1\project\hinhhoc2d\main.cpp
+	"bits/stdc++.h"
+	"HinhTamGiac.h"
+	"HinhChuNhat.h"
+	"HinhTron.h"
+	"HinhHoc2D.h"
+
+1682052529 c:\users\minhpc\documents\zalo received files\baitap1\project\hinhhoc2d\include\hinhtamgiac.h
+	"point.h"
+
+1682052556 c:\users\minhpc\documents\zalo received files\baitap1\project\hinhhoc2d\include\point.h
+
+1682052472 c:\users\minhpc\documents\zalo received files\baitap1\project\hinhhoc2d\include\hinhchunhat.h
+	"Point.h"
+
+1682052511 c:\users\minhpc\documents\zalo received files\baitap1\project\hinhhoc2d\include\hinhtron.h
+	"point.h"
+
+1682051719 c:\users\minhpc\documents\zalo received files\baitap1\project\hinhhoc2d\include\hinhhoc2d.h
+	"HinhHoc2D.h"
+	"bits/stdc++.h"
+	"HinhChuNhat.h"
+	"HinhTamGiac.h"
+	"HinhTron.h"
+
+1682052480 source:c:\users\minhpc\documents\zalo received files\baitap1\project\hinhhoc2d\src\hinhchunhat.cpp
+	"HinhChuNhat.h"
+	"bits/stdc++.h"
+	"Point.h"
+
+1682051660 source:c:\users\minhpc\documents\zalo received files\baitap1\project\hinhhoc2d\src\hinhhoc2d.cpp
+	"bits/stdc++.h"
+	"HinhHoc2D.h"
+	"HinhChuNhat.h"
+	"HinhTamGiac.h"
+	"HinhTron.h"
+
+1682052537 source:c:\users\minhpc\documents\zalo received files\baitap1\project\hinhhoc2d\src\hinhtamgiac.cpp
+	"bits/stdc++.h"
+	"HinhTamGiac.h"
+
+1682052523 source:c:\users\minhpc\documents\zalo received files\baitap1\project\hinhhoc2d\src\hinhtron.cpp
+	"HinhTron.h"
+	"math.h"
+	<iostream>
+
+1682052555 source:c:\users\minhpc\documents\zalo received files\baitap1\project\hinhhoc2d\src\point.cpp
+	<bits/stdc++.h>
+	"Point.h"
+
